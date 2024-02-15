@@ -2,7 +2,7 @@
 public class Sample {
 
 	public static void main(String args[]) {
-<<<<<<< HEAD
+
 		System.out.println("This is develop");
 		int a = 10;
         int f = 20;
