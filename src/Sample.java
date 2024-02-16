@@ -2,11 +2,7 @@
 public class Sample {
 
 	public static void main(String args[]) {
-<<<<<<< HEAD
-=======
-
->>>>>>> develop
-		System.out.println("This is develop");
+		System.out.println("This is develop first added");
 		int a = 10;
         int f = 20;
         int h = 50;
