@@ -2,9 +2,9 @@
 public class Sample {
 
 	public static void main(String args[]) {
-		System.out.println("This is develop");
+		System.out.println("This is develop and added new");
 		int a = 10;
         int f = 20;
-        int h = 50;
+        System.out.println("This is one more");
 	}
 }
