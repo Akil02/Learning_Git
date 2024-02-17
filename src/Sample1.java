@@ -7,5 +7,6 @@ public class Sample1 {
 		int f = 45; //count
 		//This is just for testing
 		System.out.println("Its Okay");
+		System.out.println("New");
 	}
 }
