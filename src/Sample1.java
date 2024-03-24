@@ -8,5 +8,6 @@ public class Sample1 {
 		//This is just for testing
 		System.out.println("Its Okay");
 		System.out.println("New");
+		//New
 	}
 }
