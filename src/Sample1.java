@@ -7,5 +7,6 @@ public class Sample1 {
 		int f = 45; //count
 		//This is just for testing
 		System.out.println("I am felling better");
+		System.out.println("New changes done");
 	}
 }
