@@ -6,8 +6,7 @@ public class Sample1 {
 		int a = 10; int b = 30;
 		int f = 45; //count
 		//This is just for testing
-		System.out.println("Hi Man how are you");
-		System.out.println("New");
-		//New
+		System.out.println("Hi Man how are you fine buddy");
+		System.out.println("New changes done");
 	}
 }
