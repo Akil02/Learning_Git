@@ -9,5 +9,6 @@ public class Sample1 {
 		System.out.println("Its nothing Okay");
 		System.out.println("New");
 		//New
+		int c = 0;
 	}
 }
