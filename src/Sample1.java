@@ -6,6 +6,6 @@ public class Sample1 {
 		int a = 10; int b = 30;
 		int f = 45; //count
 		//This is just for testing
-		System.out.println("Hi Man how are you and do you feel better");
+		System.out.println("I am felling better");
 	}
 }
